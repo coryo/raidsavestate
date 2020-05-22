@@ -1,0 +1,7 @@
+## Interface: 11303
+## Title: raidsavestate
+## Notes: by Starhammer
+## Original Author: Starhammer
+## SavedVariables: RAID_SAVESTATE1, RAID_SAVESTATE2, RAID_SAVESTATE3
+
+raidsavestate.lua
